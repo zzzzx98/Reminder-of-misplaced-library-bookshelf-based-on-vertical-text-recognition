@@ -1,0 +1,1 @@
+# Reminder-of-misplaced-library-bookshelf-based-on-vertical-text-recognition
